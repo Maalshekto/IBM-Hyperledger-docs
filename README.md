@@ -9,4 +9,10 @@
 
 
 
+## Play with it without installation :
+* Hyperledger-composer : https://hyperledger.github.io/composer/latest/tutorials/playground-tutorial.html
+
 ## Tools installation : 
+
+* Hyperledger-fabric : https://hyperledger-fabric.readthedocs.io/en/release-1.1/getting_started.html
+* Hyperledger-composer : https://hyperledger.github.io/composer/latest/installing/installing-index
