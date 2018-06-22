@@ -16,3 +16,7 @@
 
 * Hyperledger-fabric : https://hyperledger-fabric.readthedocs.io/en/release-1.1/getting_started.html
 * Hyperledger-composer : https://hyperledger.github.io/composer/latest/installing/installing-index
+
+## Production considerations :
+
+* Hyperledger-fabric on multiple hosts. : https://medium.com/@wahabjawed/hyperledger-fabric-on-multiple-hosts-a33b08ef24f
