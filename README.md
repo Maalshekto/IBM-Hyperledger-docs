@@ -16,7 +16,9 @@
 
 * Hyperledger-fabric : https://hyperledger-fabric.readthedocs.io/en/release-1.1/getting_started.html
 * Hyperledger-composer : https://hyperledger.github.io/composer/latest/installing/installing-index
+* Development server access, thanks to Quentin : http://52.47.194.8:443/
 
 ## Production considerations :
 
 * Hyperledger-fabric on multiple hosts. : https://medium.com/@wahabjawed/hyperledger-fabric-on-multiple-hosts-a33b08ef24f
+
